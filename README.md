@@ -1,5 +1,3 @@
 # Console game PingPong
 
-<video width="320" height="240" controls>
-  <source src="./misc/PingPong_demo.mp4" type="video/mp4">
-</video>
+![Image alt](./misc/Screenshot%20from%202024-09-16%2019-56-43.png)
